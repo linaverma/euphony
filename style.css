@@ -69,7 +69,7 @@ text-align: center;
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../../raw/compressed_img/Traditionaalmusic.jpg');
+    background-image: url('Traditionaalmusic.jpg');
     background-size: cover;
     background-position: center;
     animation: zoomInOut 7s linear infinite;
